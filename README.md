@@ -48,14 +48,4 @@ ShareSphere is an innovative web application designed to facilitate community-dr
 - **Charts**: Recharts
 - **Icons**: Lucide React
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or later)
-- npm or yarn
-
-
-
-1. Clone the repository
 
